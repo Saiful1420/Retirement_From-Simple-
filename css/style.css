@@ -1,0 +1,139 @@
+/*------------------ modal dafault-----------------*/
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background: #f5f5f5;
+}
+
+.inputField{
+    border-style: hidden;
+    border-bottom: dashed 1px;
+    border-radius: inherit;
+    outline: 0;
+}
+.inputField:focus {
+    background-color: transparent;
+    outline: 0;
+    box-shadow:none;
+    border-color: black;
+}
+.inputField{
+    background-color: transparent;
+}
+/* .input_dot{
+    margin-top: -16px;
+} */
+.inputField_big{
+    width: 50%;
+    border-style: hidden;
+    border-bottom: dashed 1px;
+    border-radius: inherit;
+    outline: 0; 
+}
+.inputField_big:focus {
+    background-color: transparent;
+    outline: 0;
+    box-shadow:none;
+    border-color: black;
+}
+.inputField_big{
+    background-color: transparent;
+}
+.inputField_medium{
+    width: 40%;
+    border-style: hidden;
+    border-bottom: dashed 1px;
+    border-radius: inherit;
+    outline: 0;
+}
+.inputField_medium:focus {
+    background-color: transparent;
+    outline: 0;
+    box-shadow:none;
+    border-color: black;
+}
+.inputField_medium{
+    background-color: transparent;
+}
+.inputField_small{
+    width: 30%;
+    border-style: hidden;
+    border-bottom: dashed 1px;
+    border-radius: inherit;
+    outline: 0; 
+}
+.inputField_small:focus {
+    background-color: transparent;
+    outline: 0;
+    box-shadow:none;
+    border-color: black;
+}
+.inputField_small{
+    background-color: transparent;
+}
+.data_field{
+    width: 550px;
+    border-style: hidden;
+    border-bottom: dashed 1px;
+    border-radius: inherit;
+    outline: 0;
+    line-height: 8px;
+}
+.data_field:focus {
+    background-color: transparent;
+    outline: 0;
+    box-shadow:none;
+    border-color: black;
+}
+.data_field{
+    background-color: transparent;
+}
+.dateField{
+    width: 14%;
+    border-style: hidden;
+    border-bottom: dashed 1px;
+    border-radius: inherit;
+    outline: 0;
+}
+.dateField:focus {
+    background-color: transparent;
+    outline: 0;
+    box-shadow:none;
+    border-color: black;
+}
+.dateField{
+    background-color: transparent;
+}
+.inputField_1{
+    border-style: hidden;
+    border-bottom: dashed 1px;
+    border-radius: inherit;
+    margin-top: 10px;
+    outline: 0;  
+}
+
+.form-control:focus {
+    background-color: transparent;
+    outline: 0;
+    /* box-shadow: 0 0 0 0.2rem rgb(197 196 196 / 25%); */
+    box-shadow:none;
+    border-color: black;
+}
+.form-control{
+    background-color: transparent;
+}
+
+.form-group{
+    margin-bottom: 0px;
+}
+p{
+    line-height: 2.2rem;
+}
+
+/* ====================নির্দেশাবলি================ */
+.form_p_1{
+    margin-left:31px;
+}
+.form_p_1_1{
+    margin-left:-55px;
+}
